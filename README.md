@@ -4,14 +4,14 @@
 
 <!--Skill And More Information--> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="LXN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 
 <!--Social Media-->  
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
- <a href="https://www.instagram.com/luongxuannhat/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+ <a href="https://www.instagram.com/luongxuannhat/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%rgb(44 127 235)?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 <a href="https://www.facebook.com/nhat.luong.xuan.114" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white"</a> 
  </div>
   
