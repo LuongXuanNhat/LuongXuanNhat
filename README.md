@@ -1,8 +1,6 @@
 <!--Title @LXN-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Vietnam;I'm+21+years+old;Welcome!) 
 
-<!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">  
@@ -18,10 +16,6 @@
 
  </div>
   
- <!--Total Contributions--> 
- <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
-</p>
 
    <!--Front End-->
 ```mermaid
@@ -30,42 +24,13 @@ graph TD;
     Front-End-->CSS3;
     Front-End-->JavaScript;
     Front-End-->Angular;
-    Front-End-->React;
-    Front-End-->XML;
     Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
    
  <!--Coordenadas de Rio Preto - My Home-->
   
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-78,-11.9],
-              [-76.9,-11.9],
-              [-76.9,-11.9],
-              [-78,-11.9],
-              [-78,-11.9]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+
 <!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
