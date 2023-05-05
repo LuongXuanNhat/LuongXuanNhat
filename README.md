@@ -24,6 +24,9 @@ graph TD;
     Front-End-->JavaScript;
     Front-End-->Bootstrap;
     Front-End-->JQuery;
+    Back-End-->Java;
+    Back-End-->C#;
+    Back-End-->JavaScript;
    ```
    
   ```mermaid
