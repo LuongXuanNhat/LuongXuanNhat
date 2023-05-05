@@ -33,20 +33,21 @@ graph TD;
     Back-End-->C#;
     Back-End-->JavaScript;
    ```
-    ```mermaid
+   
+```mermaid
 graph TD;
     Design-->PS;
     Design-->AI;
     Design-->Figma;
-   ```  
+```  
    
-   ```mermaid
+```mermaid
 graph TD;
     Others-->MSSQL;
     Others-->MySQL;
     Others-->Git;
     Others-->SourceTree;
-   ```  
+```  
    
    
  <!--Coordenadas de Rio Preto - My Home-->
