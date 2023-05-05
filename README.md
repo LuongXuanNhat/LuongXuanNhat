@@ -21,16 +21,8 @@
 graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
-    Front-End-->JavaScript;
     Front-End-->Bootstrap;
     Front-End-->JQuery;
-    Back-End-->Java;
-    Back-End-->C#;
-    Back-End-->JavaScript;
-   ```
-   
-  ```mermaid
-graph TD;
     Back-End-->Java;
     Back-End-->C#;
     Back-End-->JavaScript;
@@ -41,15 +33,12 @@ graph TD;
     Design-->Photoshop;
     Design-->Illustration;
     Design-->Figma;
-```  
-   
-```mermaid
-graph TD;
     Others-->MSSQL;
     Others-->MySQL;
     Others-->Git;
     Others-->SourceTree;
 ```  
+   
    
    
  <!--Coordenadas de Rio Preto - My Home-->
