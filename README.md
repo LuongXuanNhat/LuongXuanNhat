@@ -27,6 +27,12 @@ graph TD;
     Front-End-->JQuery;
    ```
    
+  ```mermaid
+graph TD;
+    Back-End-->C#;
+    Back-End-->JavaScript;
+   ```
+   
  <!--Coordenadas de Rio Preto - My Home-->
   
 
