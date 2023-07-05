@@ -7,7 +7,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luongxuannhat&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="LXN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongxuannhat&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count  </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuongXuanNhat}/count.svg" /></p> 
+<br>
 <!--Social Media-->  
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
