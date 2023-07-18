@@ -36,6 +36,7 @@ graph TD;
     Design-->Photoshop;
     Design-->Illustration;
     Design-->Figma;
+    Design-->Visily;
     Others-->MSSQL;
     Others-->MySQL;
     Others-->Git;
