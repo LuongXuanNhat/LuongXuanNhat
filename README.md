@@ -61,7 +61,7 @@ graph TD;
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h5 align="center"> .net core dev roadmap 2023 </h5>
-![RoadMap](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c3397cd-3c4b-4a8d-9719-f2942973e1fb)
+<img src="https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c3397cd-3c4b-4a8d-9719-f2942973e1fb"/>
 
 
 
