@@ -15,7 +15,8 @@
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
  <a href="https://www.instagram.com/luongxuannhat/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
-<a href="https://www.facebook.com/nhat.luong.xuan.114" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%232F75E5?style=for-the-badge&logo=facebook&logoColor=white"</a> 
+ <a href="https://www.facebook.com/nhat.luong.xuan.114" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%232F75E5?style=for-the-badge&logo=facebook&logoColor=white"</a> 
+<a href="https://www.youtube.com/@XuanNhatDev" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23ff0001?style=for-the-badge&logo=youtube&logoColor=white"</a> 
  </div>
   
 
@@ -45,14 +46,13 @@ graph TD;
    
    
    
- <!--Coordenadas de Rio Preto - My Home-->
-  
+<br><p align="centre"><b>Some Design</b></p>  
+![figma copy](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/dd752136-7099-4f66-a22d-6a9d255668d3)
+![visily copy](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/026889ad-fb46-450e-ba23-b80b9c6cd82a)
 
-<!--Final do Contador de Visitas-->   
+<br><p align="centre"><b>My channel</b></p>  
+![Screenshot 2023-10-02 191250](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c1a9d10-d9a1-4657-b808-bc30f9380c17)
 
-<!--- Country ---> 
-
-  
 <!-- <a href="https://github.com/bastndev/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
 <!--   
 <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  -->
