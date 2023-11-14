@@ -15,7 +15,7 @@
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
  <a href="https://www.instagram.com/luongxuannhat/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
- <a href="https://www.facebook.com/nhat.luong.xuan.114" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%232F75E5?style=for-the-badge&logo=facebook&logoColor=white"</a> 
+ <a href="https://www.facebook.com/luongxuannhat114" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%232F75E5?style=for-the-badge&logo=facebook&logoColor=white"</a> 
 <a href="https://www.youtube.com/@XuanNhatDev" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23ff0001?style=for-the-badge&logo=youtube&logoColor=white"</a> 
  </div>
   
