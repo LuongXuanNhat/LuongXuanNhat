@@ -26,9 +26,11 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->Bootstrap;
-    Front-End-->Ts;
+    Front-End-->Material;
     Front-End-->Js;
+    Back-End-->Ts;
     Back-End-->Java;
+    Back-End-->PHP;
     Back-End-->NET-C#;
    ```
    
