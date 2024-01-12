@@ -1,5 +1,5 @@
 <!--Title @LXN-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Vietnam;I'm+21+years+old;Welcome!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Vietnam;Welcome!) 
 
 
 <!--Skill And More Information--> 
