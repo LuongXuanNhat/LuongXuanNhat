@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongxuannhat&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 <div align="center">
-<br><p align="centre"><b>Visitors Count  </b></p>  
+<br><p align="centre"><b> Visitors Count  </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuongXuanNhat}/count.svg" /></p> 
 <br>
 <!--Social Media-->  
@@ -63,8 +63,16 @@ graph TD;
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<h5 align="center"> .net core dev roadmap 2023 </h5>
+<h5 align="center"> .Net core dev roadmap 2023 </h5>
 <img src="https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c3397cd-3c4b-4a8d-9719-f2942973e1fb"/>
+
+<h5 align="center"> Mind map some tech </h5>
+<br><p align="centre"> OOP                   https://xmind.ai/share/C6N6O26u?xid=ZhSkBRRR  </p>  
+<br><p align="centre">  SOLID                https://xmind.ai/share/gOCppqi7?xid=uLz7kIM3 </p> 
+<br><p align="centre"> Blockchain        https://xmind.ai/share/ooOnJC74?xid=xHx5fMoX  </p> 
+<br><p align="centre">  Mircoservice     https://xmind.ai/share/gWCoLLEy?xid=SOgbtG4i </p> 
+<br><p align="centre"> Design Pattern  https://xmind.ai/share/tohm13Na?xid=A0lPgd0Y  </p> 
+
 
 
 
