@@ -48,9 +48,12 @@ graph TD;
    
    
    
-<br><p align="centre"><b>Some Design</b></p>  
+<br><p align="centre"><b>Some Design UI/UX, banner, poster, background. logo...</b></p>  
 ![figma copy](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/dd752136-7099-4f66-a22d-6a9d255668d3)
 ![visily copy](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/026889ad-fb46-450e-ba23-b80b9c6cd82a)
+![image](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/ad5c043d-f4c3-4c84-b3cc-ec8076b6e49d)
+![image](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/83eabc08-89ee-4ffb-bff6-d65b4eec2302)
+![image](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/d596ba34-e703-4df7-baaf-5e3334c10ba4)
 
 <br><p align="centre"><b>My channel</b></p>  
 ![Screenshot 2023-10-02 191250](https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c1a9d10-d9a1-4657-b808-bc30f9380c17)
@@ -59,19 +62,21 @@ graph TD;
 <!--   
 <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  -->
 
-  
- <!--Sneek Gusano-->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<h5 align="center"> .Net core dev roadmap 2023 </h5>
-<img src="https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c3397cd-3c4b-4a8d-9719-f2942973e1fb"/>
-
-<h5 align="center"> Mind map some tech </h5>
+<h4 align="center"> Mind map some tech </h5>
 <br><p align="centre"> OOP                   https://xmind.ai/share/C6N6O26u?xid=ZhSkBRRR  </p>  
 <br><p align="centre">  SOLID                https://xmind.ai/share/gOCppqi7?xid=uLz7kIM3 </p> 
 <br><p align="centre"> Blockchain        https://xmind.ai/share/ooOnJC74?xid=xHx5fMoX  </p> 
 <br><p align="centre">  Mircoservice     https://xmind.ai/share/gWCoLLEy?xid=SOgbtG4i </p> 
 <br><p align="centre"> Design Pattern  https://xmind.ai/share/tohm13Na?xid=A0lPgd0Y  </p> 
+<br><p align="centre"> Growth Mindset                 https://xmind.ai/share/90kzMB0D?xid=CXrDbktF</p>  
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<h4 align="center"> .Net core dev roadmap 2023 </h5>
+<img src="https://github.com/LuongXuanNhat/LuongXuanNhat/assets/96036623/0c3397cd-3c4b-4a8d-9719-f2942973e1fb"/>
+
+
 
 
 
